@@ -1,7 +1,0 @@
-package com.smartleave.hr.model.enums;
-
-public enum UserRole {
-    ADMIN,
-    MANAGER,
-    EMPLOYEE
-}
